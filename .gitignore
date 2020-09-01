@@ -1,3 +1,6 @@
+# Addings ratings.csv, file to big to push
+ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
